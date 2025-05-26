@@ -5,7 +5,7 @@ html {
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-color: #24272b;
-    color: red;
+    color: orange;
     text-align: center;
     overflow: hidden;
     direction: rtl; /* إضافة اتجاه النص من اليمين لليسار */
@@ -14,7 +14,7 @@ html {
 h1 {
     text-shadow: 0.1em 0.1em 0.2em black;
     font-size: 25px;
-    color: red;
+    color: orange;
     font-family: Arial, sans-serif; /* تحسين الخط */
 }
 
@@ -36,7 +36,7 @@ a {
 
 .btn {
     background-color: #008000;
-    color: red;
+    color: orange;
     width: 227px;
     height: 46px;
     padding-bottom: 5px;
